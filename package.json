@@ -1,5 +1,5 @@
 {
-  "name": "@messam/storybook-design-system-training",
+  "name": "@messam/storybook-test",
   "version": "0.1.0",
   "private": false,
   "main": "dist/cjs/index.js",
