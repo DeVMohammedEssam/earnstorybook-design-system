@@ -78,5 +78,10 @@
   },
   "description": "Storybook design systems tutorial",
   "repository": "https://github.com/DeVMohammedEssam/earnstorybook-design-system.git",
-  "author": "Mohammed Essam <messam@RASAN.CO>"
+  "author": "Mohammed Essam <messam@RASAN.CO>",
+  "auto": {
+    "plugins": [
+      "npm"
+    ]
+  }
 }
